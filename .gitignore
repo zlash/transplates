@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# JS Maps
+*.js.map
+ts/*.js
+
+.vscode
+
+typings
+tsd.json
